@@ -1,0 +1,39 @@
+{
+  "anecdotes": [
+    {
+      "content": "Tilititappi Tilititappitaa",
+      "votes": 5,
+      "id": 1
+    },
+    {
+      "content": "Premature optimization is the root of all evil.",
+      "votes": 0,
+      "id": 3
+    },
+    {
+      "content": "Testeri",
+      "votes": 4,
+      "id": 4
+    },
+    {
+      "content": "Testeri 2",
+      "votes": 3,
+      "id": 5
+    },
+    {
+      "content": "no mitä vittua",
+      "votes": 5,
+      "id": 6
+    },
+    {
+      "content": "Testeri 3",
+      "votes": 0,
+      "id": 7
+    },
+    {
+      "content": "Testeri 4",
+      "votes": 1,
+      "id": 8
+    }
+  ]
+}
